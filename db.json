@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "name": "Ball",
+      "price": "12",
+      "id": 3
+    },
+    {
+      "name": "Pen",
+      "price": "23",
+      "id": 4
+    },
+    {
+      "name": "Paper",
+      "price": "65",
+      "id": 5
+    },
+    {
+      "name": "Shoe",
+      "price": "1200",
+      "id": 6
+    },
+    {
+      "name": "Eraser",
+      "price": "13",
+      "id": 7
+    },
+    {
+      "name": "Dress",
+      "price": "2345",
+      "id": 8
+    }
+  ],
+  "bills": [
+    {
+      "id": 1,
+      "billid": "BNUTDFR123",
+      "billprice": 1234
+    },
+    {
+      "billprice": 4865,
+      "billid": "BILL90789",
+      "id": 2
+    },
+    {
+      "billprice": 18935,
+      "billid": "BILL72875",
+      "id": 3
+    }
+  ]
+}
